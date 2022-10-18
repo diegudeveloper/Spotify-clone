@@ -4,6 +4,6 @@
 }
 
 .link:hover {
-    color: var(white);
+    color: var(--white);
     text-decoration: underline;
 }
